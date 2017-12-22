@@ -1,6 +1,6 @@
 # Oracle database client installation（basic/sdk/sqlplus）
 
-安装client客户端<br/>
+安装Oracle客户端<br/>
 1.要远程连接oracle，先下载下面三个文件，注意版本最好一致。 <br/>
 不同版本，或者不同操作系统的，请到官方网站下载，里面有详细说明。 <br/>
 我的php版本为5.6.30，要连接的oracle服务器是 11g R2，操作系统版本CentOS 6.9 x86_64 <br/>
