@@ -12,7 +12,7 @@ instantclient-sqlplus-linux.x64-11.1.0.2.0.zip (需要安装目标机器在命�
 2.先创建三个客户端的安装目录,但配置环境变量时，需要一致<br/>
 $ mkdir -p /home/oracle<br/>
 $ mkdir -p /home/oracle/sdk <br/>
-$ mkdir -p /home/oracle/network/admin (监听器和网络环境)<br/><br/>
+$ mkdir -p /home/oracle/network/admin (监听器和网络环境目录)<br/><br/>
 
 3.解压到安装目录 <br/>
 把版本sqlplus、basic解压后的目录下所有文件搬到安装目录<br/>
